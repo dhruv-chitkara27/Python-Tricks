@@ -1,4 +1,4 @@
 # Python-Tricks
-This repository contains some tricks in #PYTHON#
+This repository contains some tricks in #PyThOn#
 
 Pull requests are welcome!! :)
