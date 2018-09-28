@@ -1,6 +1,6 @@
 # Python-Tricks
 
-This repository contains some tricks in #PyThOn#
+This Repository contains some tricks in #PyThOn#
 
 
 Pull requests are welcome!!:)
